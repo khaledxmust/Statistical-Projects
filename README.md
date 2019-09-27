@@ -15,9 +15,7 @@
    10. Calculate the mean and variance.
   
 3) Implement a function that computes the p-value to test the hypothesis that the mean of one dataset is equal to the mean of another dataset. The function should take as inputs the two datasets and the significance level, and outputs the p-value in addition to the boundaries of the acceptance region. The significance level is 0.05.
-    1. Apply the function to the two datasets “Data3-1.txt” and “Data3-2.txt”.
-  
+   1. Apply the function to the two datasets “Data3-1.txt” and “Data3-2.txt”.
     • What is the p-value in this case? Plot the histogram of both datasets.
    2. Apply the function to the two datasets “Data3-1.txt” and “Data3-3.txt”.
-  
     • What is the p-value in this case? Plot the histogram of both datasets.
